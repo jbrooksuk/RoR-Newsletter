@@ -1,5 +1,21 @@
-<%= form_for @signup do |f| %>
-	<%= f.label :email %>
-	<%= f.text_field :email %>
-	<%= f.submit %>
-<% end %>
+<section class='signup-block'>
+	<p>We'll be launching soon, so if you want to be the first to know about us then sign up here.</p>
+	<div class="flex">
+		<div class='row show-grid'>
+			<%= form_for(@signup, :html => { :class => "fancy-form" }) do |f| %>
+				<div class='controls controls-row hide-me'>
+					<%= f.text_field :email, :class => "span5", :placeholder => "john@smith.com" %>
+					<%= f.submit :value => "Sign me up" , :class => "span2 btn btn-large" %>
+				</div>
+			<% end %>
+		</div>
+		<div class='row show-grid'>
+		  <% flash.each do |key, value| %>
+		    <div class="<%= flash_class(key) %>">
+		      <%= value %>
+		    </div>
+		  <% end %>
+		</div>
+	</div>
+
+</section>
