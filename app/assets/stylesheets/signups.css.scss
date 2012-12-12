@@ -1,3 +1,82 @@
 // Place all the styles related to the Signups controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.launch-head {
+  text-align: center;
+
+  h1 {
+    letter-spacing: -2px;
+    font-weight: bold;
+    font-size: 126px;
+    line-height: 1.1;
+    white-space: nowrap;
+  }
+
+  h2 { 
+    font-size: 48px;  
+    letter-spacing: -1px;
+    line-height: 48px;
+    font-weight: 300;
+  }
+}
+
+.signup-block {
+  text-align: center;
+  margin-top: 80px;
+  p {
+    font-weight: 300;
+    color: #666;
+    font-size: 18px; 
+  }
+}
+
+.flex {
+  display: inline-block;
+}
+
+.show-grid {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.fancy-form {
+  margin: 0;
+  padding: 16px 16px 7px 16px;
+  position: relative;
+  background-image: image-url('stripes.png');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,0.3)), to(rgba(0,10,10,0.2))), image-url('stripes.png');   
+  background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.3) 0%, rgba(0,10,10,0.2) 100%), image-url('stripes.png');
+  background-image:    -moz-linear-gradient(top, rgba(255,255,255,0.3) 0%, rgba(0,10,10,0.2) 100%), image-url('stripes.png');
+  background-image:      -o-linear-gradient(top, rgba(255,255,255,0.3) 0%, rgba(0,10,10,0.2) 100%), image-url('stripes.png');
+  background-image:     -ms-linear-gradient(top, rgba(255,255,255,0.3) 0%, rgba(0,10,10,0.2) 100%), image-url('stripes.png');
+  background-image:         linear-gradient(to bottom, rgba(255,255,255,0.3) 0%, rgba(0,10,10,0.2) 100%), image-url('stripes.png');
+  -webkit-box-shadow: 0px 1px 8px -1px #333;
+          box-shadow: 0px 1px 8px -1px #333;
+  -webkit-border-radius: 8px;
+          border-radius: 8px;
+
+  input[type="text"] {
+    font: 99% sans-serif;
+    font-size: 23px;
+    color: #333;
+    text-shadow: 0px 0px 2px rgba(255,255,255,0.4);
+    padding: 2px 0px 0px 10px;
+    height: 40px;  
+    border: none;
+    border-bottom: 1px solid #f8f8f8;
+    background-color: #efefef;
+    -webkit-box-shadow: inset 0px 2px 6px -1px #444;
+            box-shadow: inset 0px 2px 6px -1px #444;
+    -webkit-border-radius: 8px;
+            border-radius: 8px;  
+    &:focus {
+      background: #f6f6f6;
+      box-shadow: inset 0px 2px 6px -1px #666;
+      border-bottom: 1px solid #FFF;
+      -webkit-transition: border linear .2s, box-shadow linear .2s, background linear .2s;
+         -moz-transition: border linear .2s, box-shadow linear .2s, background linear .2s;
+           -o-transition: border linear .2s, box-shadow linear .2s, background linear .2s;
+              transition: border linear .2s, box-shadow linear .2s, background linear .2s;
+    }
+  }
+}
