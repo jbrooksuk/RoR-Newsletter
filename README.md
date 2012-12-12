@@ -1,6 +1,9 @@
 # Ruby on Rails Newsletter Signup
 A very simple Ruby on Rails app that I'm using as a tutorial on my [blog](http://james.brooks.so) before I endeavour to create a fully fledged SaaS over the next year and however long extra it takes.
 
+## Give me a break...
+I barely know Ruby on Rails and although this may be the simplest code ever, it's the first Ruby on Rails application that I've completely built on my own without the use of tutorials *something I could've done with*, which is why I'm writing a blog post about creating a Newsletter signup page using Ruby on Rails.
+
 # The MIT License (MIT)
 Copyright (c) 2012 James Brooks, ukjbrooks@gmail.com
 
