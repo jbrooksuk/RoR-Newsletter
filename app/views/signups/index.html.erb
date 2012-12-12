@@ -1,0 +1,5 @@
+<p>Sign up here.</p>
+<% flash.each do |name, message| %>
+	<%= content_tag :div, message, :id => "flash_#{name}" %>
+<% end %>
+<%= render 'form' %>

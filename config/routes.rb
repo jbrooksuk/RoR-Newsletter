@@ -1,4 +1,7 @@
 Newsletter::Application.routes.draw do
+  root :to => "signups#index"
+  resources :signups
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
