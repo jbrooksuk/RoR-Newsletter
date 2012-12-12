@@ -1,0 +1,299 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 181.0,
+		"selected_items":
+		[
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jbrooksuk/Code/three60/three60.sublime-project",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-12-12-2012-what-a-year.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-11-21-why-i-built-mariposta.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-11-20-interview-with-brianna-wu.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-12-02-why-im-considering-a-wp8-phone.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-12-02-why-i-slash-m-considering-a-wp8-phone.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-08-30-interview-with-amber-weinberg.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-11-18-afro-the-php-routing-framework.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-11-17-brio.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-11-15-mariposta-from-jared-white.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-11-17-using-linkedin-to-sell.markdown",
+		"/Users/jbrooksuk/Code/Blog/.themes/typica/source/_includes/post/author.html",
+		"/Users/jbrooksuk/Code/Blog/.themes/typica/source/_includes/post/categories.html",
+		"/Users/jbrooksuk/Code/Blog/Rakefile",
+		"/Users/jbrooksuk/Code/Blog/.themes/typica/source/javascripts/setup.js",
+		"/Users/jbrooksuk/Code/Blog/.themes/typica/source/_layouts/post.html",
+		"/Users/jbrooksuk/Code/Blog/.themes/typica/source/_includes/article.html",
+		"/Users/jbrooksuk/Code/Blog/.themes/typica/source/_includes/footer.html",
+		"/Users/jbrooksuk/Code/Blog/.themes/typica/source/_layouts/default.html",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-09-03-interview-with-paul-davis.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-11-14-sql-uuid-as-string.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-11-04-interview-with-chris-wharton.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-11-15-interview-with-david-walsh.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-11-08-git-missing-after-installing-mountain-lion.markdown",
+		"/Users/jbrooksuk/Code/Blog/source/_posts/2012-11-08-clear-for-mac-available-now.markdown",
+		"/Users/jbrooksuk/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jbrooksuk/Code/Blog/.themes/typica/source/_includes/head.html",
+		"/Users/jbrooksuk/Code/Blog/source/_includes/footer.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  ",
+			"_url",
+			"post",
+			"author",
+			".\"",
+			"  ",
+			"<script type=\"text/javascript\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"whatayear",
+				"source/_posts/2012-12-12-2012-what-a-year.markdown"
+			],
+			[
+				"why",
+				"source/_posts/2012-12-02-why-im-considering-a-wp8-phone.markdown"
+			],
+			[
+				"whyimcon",
+				"source/_posts/2012-12-02-why-i-slash-m-considering-a-wp8-phone.markdown"
+			],
+			[
+				"mar",
+				"source/_posts/2012-11-21-why-i-built-mariposta.markdown"
+			],
+			[
+				"inter",
+				"source/_posts/2012-08-30-interview-with-amber-weinberg.markdown"
+			],
+			[
+				"briann",
+				"source/_posts/2012-11-20-interview-with-brianna-wu.markdown"
+			],
+			[
+				"afro",
+				"source/_posts/2012-11-18-afro-the-php-routing-framework.markdown"
+			],
+			[
+				"brio",
+				"source/_posts/2012-11-17-brio.markdown"
+			],
+			[
+				"using",
+				"source/_posts/2012-11-17-using-linkedin-to-sell.markdown"
+			],
+			[
+				"author",
+				".themes/typica/source/_includes/post/author.html"
+			],
+			[
+				"rake",
+				"Rakefile"
+			],
+			[
+				"maripos",
+				"source/_posts/2012-11-15-mariposta-from-jared-white.markdown"
+			],
+			[
+				"interv",
+				"source/_posts/2012-08-30-interview-with-amber-weinberg.markdown"
+			],
+			[
+				"set",
+				".themes/typica/source/javascripts/setup.js"
+			],
+			[
+				"post.html",
+				".themes/typica/source/_layouts/post.html"
+			],
+			[
+				"setup.js",
+				".themes/typica/source/javascripts/setup.js"
+			],
+			[
+				"footer",
+				".themes/typica/source/_includes/footer.html"
+			],
+			[
+				"david",
+				"source/_posts/2012-11-15-interview-with-david-walsh.markdown"
+			],
+			[
+				"paul",
+				"source/_posts/2012-09-03-interview-with-paul-davis.markdown"
+			],
+			[
+				"uuid",
+				"source/_posts/2012-11-14-sql-uuid-as-string.markdown"
+			],
+			[
+				"git",
+				"source/_posts/2012-11-08-git-missing-after-installing-mountain-lion.markdown"
+			],
+			[
+				"clear",
+				"source/_posts/2012-11-08-clear-for-mac-available-now.markdown"
+			],
+			[
+				"chris",
+				"source/_posts/2012-11-04-interview-with-chris-wharton.markdown"
+			],
+			[
+				"typicahead",
+				".themes/typica/source/_includes/head.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"thre",
+				"/Users/jbrooksuk/Sites/three60/three60.sublime-project"
+			],
+			[
+				"three",
+				"/Volumes/www/three60/three60.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
